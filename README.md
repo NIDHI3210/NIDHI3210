@@ -7,7 +7,7 @@
 </p>
 
 
-## 🌌 About Me
+##  About Me
 
 - 🎓 Student at MLR Institute of Technology  
 - 💻 Learning Web Development & DSA  
@@ -19,10 +19,10 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/NIDHI3210)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nidhi-kumari-960820335/))
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,java,js,github)
 
@@ -40,17 +40,9 @@
 
 ---
 
-## 📈 Most Used Languages
+##  Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIDHI3210&layout=compact&theme=tokyonight)
-
----
-
-## ✨ Fun Section
-
-💡 "Code + Creativity = My Superpower"  
-🎯 Goal: Achieve good Knowledge 
-🌱 Currently learning: Java + Frontend +DBMS +Competetive Programming
 
 ---
 
