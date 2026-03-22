@@ -19,8 +19,7 @@
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/NIDHI3210)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([your-link](https://www.linkedin.com/in/nidhi-kumari-960820335/))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-link)
 ---
 
 ## 🛠️ Tech Stack
