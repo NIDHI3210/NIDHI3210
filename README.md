@@ -53,5 +53,5 @@ performance, scalability, and intelligent automation.
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_ID)  
+- 💼 [LinkedIn](https://linkedin.com/in/(https://www.linkedin.com/in/nidhi-kumari-960820335/))  
 - 💻 [GitHub](https://github.com/NIDHI3210)  
