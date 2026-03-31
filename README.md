@@ -7,18 +7,6 @@
 
 ---
 
-## 🧠 About Me
-
-With a strong foundation in **competitive programming**,  
-I’ve developed deep problem-solving skills and expertise in  
-**data structures, algorithms, and system design**.
-
-I’m passionate about **backend development and machine learning**,  
-and I love crafting **data-driven solutions** that blend  
-performance, scalability, and intelligent automation.
-
----
-
 ## ⚡ Interests
 
 - Web development 
