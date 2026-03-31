@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/nidhi_21k/">LeetCode</a> •
-  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/nidhi-kumari-960820335/)">LinkedIn</a> •
+  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/nidhi-kumari-960820335/)">LinkedIn</a>
 </p>
 
 ---
@@ -21,18 +21,16 @@ performance, scalability, and intelligent automation.
 
 ## ⚡ Interests
 
-- Backend & API Engineering  
-- Machine Learning  
+- Web development 
 - Competitive Programming  
-- System Design & Automation  
-
+- Core concepts 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NIDHI3210&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIDHI3210&theme=tokyonight" />
 </p>
 
 ---
@@ -40,7 +38,7 @@ performance, scalability, and intelligent automation.
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIDHI3210&layout=donut&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +46,7 @@ performance, scalability, and intelligent automation.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIDHI3210&theme=tokyo-night" />
 </p>
 
 ---
@@ -56,4 +54,4 @@ performance, scalability, and intelligent automation.
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_ID)  
-- 💻 [GitHub](https://github.com/YOUR_USERNAME)  
+- 💻 [GitHub](https://github.com/NIDHI3210)  
