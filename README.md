@@ -1,58 +1,59 @@
-# Hi, I'm Nidhi 👋
+<h1 align="center">Hi 👋, I'm Nidhi</h1>
 
-
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=30&fontColor=ffffff)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=540852&center=true&vCenter=true&lines=Frontend+Developer;DSA+Learner;Creative+Designer&speed=50"/>
+  <a href="https://leetcode.com/nidhi_21k/">LeetCode</a> •
+  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/nidhi-kumari-960820335/)">LinkedIn</a> •
 </p>
 
+---
 
-##  About Me
+## 🧠 About Me
 
-- 🎓 Student at MLR Institute of Technology  
-- 💻 Learning Web Development & DSA  
-- 🎨 Love sketching, designing & creativity  
-- 🚀 Goal: Become a Full Stack Developer  
+With a strong foundation in **competitive programming**,  
+I’ve developed deep problem-solving skills and expertise in  
+**data structures, algorithms, and system design**.
+
+I’m passionate about **backend development and machine learning**,  
+and I love crafting **data-driven solutions** that blend  
+performance, scalability, and intelligent automation.
 
 ---
 
-## 🌐 Connect with Me
+## ⚡ Interests
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/NIDHI3210)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-kumari-960820335/)
----
-
-##  Tech Stack
-
-![My Skills](https://skillicons.dev/icons?i=html,css,java,js,github)
+- Backend & API Engineering  
+- Machine Learning  
+- Competitive Programming  
+- System Design & Automation  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Nidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NIDHI3210&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🧠 Top Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NIDHI3210&theme=tokyonight)
-
----
-
-##  Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIDHI3210&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Graph
 
-🔹 Web Development Practice 
-🔹 StudyMate 
-🔹 DSA Solutions (LeetCode)  
-🔹 Portfolio Website (Coming Soon)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+## 📫 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_ID)  
+- 💻 [GitHub](https://github.com/YOUR_USERNAME)  
