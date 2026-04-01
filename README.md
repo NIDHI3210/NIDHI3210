@@ -41,5 +41,5 @@
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/(https://www.linkedin.com/in/nidhi-kumari-960820335/))  
+- 💼 [LinkedIn](https://linkedin.com/in/[(https://www.linkedin.com/in/nidhi-kumari-960820335/)]  
 - 💻 [GitHub](https://github.com/NIDHI3210)  
